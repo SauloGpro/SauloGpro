@@ -1,8 +1,8 @@
-# 💻 **[Saul Guerrero]**
+# 💻 **Saul Guerrero**
 
 ### 👋 ¡Hola! Bienvenido a mi perfil de GitHub
 
-Soy **Programador Fullstack** apasionado por el desarrollo de software y el impacto que este puede tener en el mundo. Desde febrero de 2023, he estado explorando y aprendiendo continuamente en este apasionante campo, enfocándome en construir soluciones tanto en el front como en el backend. 
+Desde las fermosas tierras yermas del **frontend** hasta los reinos más profundos del **backend**, soy un **Programador Fullstack** en una misión constante por dominar el arte del código y dejar mi huella en el vasto universo del desarrollo de software. He estado forjando soluciones y aprendiendo con la tenacidad de un bug que se rehúsa a ser resuelto. 🚀💻
 
 ### 🚀 **Áreas de Interés**
 - **Backend Development**: Donde disfruto diseñar arquitecturas robustas y escalables.
@@ -36,8 +36,8 @@ Soy **Programador Fullstack** apasionado por el desarrollo de software y el impa
 ---
 
 ## 🌟 **Conectemos**
-- 📫 **Email**: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)  
-- 💼 **LinkedIn**: [Tu Perfil](https://www.linkedin.com)  
+- 📫 **Email**: saulguerrerogallego@gmail.com 
+- 💼 **LinkedIn**: www.linkedin.com/in/saulguerreropro
 
 ---
 
